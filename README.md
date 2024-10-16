@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lugey, but you can also call me Luger, just two fun nicknames👍
+- 👀 I’m interested in becoming a solo game developer, making a calculator, and inventing my own app, and my own machine that connects with that app!
+- 🌱 I’m currently learning Python, along with various different amounts of other coding-realated things!
